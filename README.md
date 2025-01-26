@@ -52,8 +52,8 @@ With over 8 years of extensive experience in end-to-end software development, I 
 ## 𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐧 𝐃𝐨
 
 <img align="right" alt="GIF" src="images.jfif" width="350" />
-
 <br />
+
 ### Full Stack Development
 <br />
 
