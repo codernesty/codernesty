@@ -9,7 +9,7 @@
 </h1>
 <img align="right" width="400" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
   <p>
-I am a full-stack developer with a broad and versatile coding skill set. I quickly helps startups and enterprises with prototypes and ideas by efficiently building those things into reality. My expertise lies in building MVPs, apps, enterprise software, scalable microservices, web crawlers, REST and Socket APIs, infrastructure modeling, AWS, and deployments. I am the go-to guy for any of your development needs.
+With over 8 years of extensive experience in end-to-end software development, I have a strong passion for web technologies. I enjoy collaborating with others to create innovative, efficient, and reliable solutions that offer excellent user experiences. I have successfully led and completed over several projects, ranging from small to large-scale applications. Proficient in problem-solving and debugging, I am always seeking new challenges.
 </p>
 <p align="center">
   <a href="https://github.com/Kilros0817"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Senior%20Full%20Stack%20Developer;8+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45"></a>
@@ -56,16 +56,12 @@ I am a full-stack developer with a broad and versatile coding skill set. I quick
 ## 𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐧 𝐃𝐨
 
 <img align="right" alt="GIF" src="images.jfif" width="400" />
- 
-### Frontend & Backend Development
-<br />
 
-### Chatbot Development
+### Full Stack Development
 <br />
-
+### Dev Ops Engineering
+<br />
 ### Web Scrapping | Bot development
 <br />
-
-### Web & Mobile Design
 
  
